@@ -93,3 +93,4 @@ When the client makes a `DELETE` request to `/posts`:
 
 - Remove the post with the given `id` from the array of posts. Return the
   object `{ success: true }` in a JSON response.
+# node-express-lab-solution
